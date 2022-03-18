@@ -42,21 +42,6 @@ body{
     background: #ce93ff;
 }
 
-.topbar{
-    width: auto;
-    height: 17vh;
-    background-color: #7900bf;
-}
-
-.navbar {
-    font-family: SF-Pro-Display-Bold;
-    justify-content: center;
-    align-items: center;
-    line-height: 13vh;
-    font-size: 5vh;
-    color: whitesmoke;
-}
-
 .row {
     right: 5%;
 }
@@ -71,7 +56,8 @@ body{
     margin: 0% 25%;
 }
 
-.btn1 {
-    font-family: Product Sans;
+.navbar-brand {
+    color: white;
 }
+
 
