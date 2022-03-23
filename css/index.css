@@ -13,7 +13,7 @@
     src: url(../font/Product\ Sans\ Regular.ttf)format('truetype');
 }
 
-*{
+* {
     font-family: "SF-Pro-Display";
 }
 
@@ -56,8 +56,14 @@ body{
     margin: 0% 25%;
 }
 
+.navbar {
+    background-color: purple;
+}
+
 .navbar-brand {
     color: white;
 }
 
-
+.nav-link{
+    color: white;
+}
